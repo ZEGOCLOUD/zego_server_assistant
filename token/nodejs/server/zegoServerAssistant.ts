@@ -34,7 +34,7 @@ function makeNonce() {
 
 function makeRandomIv(): string { // Generate a random 16-character string
     const str = '0123456789abcdefghijklmnopqrstuvwxyz';
-    const result = [];
+    const result : String [] = [];
     for (let i = 0; i < 16; i++) {
         const r = Math.floor(Math.random() * str.length);
         result.push(str.charAt(r));
