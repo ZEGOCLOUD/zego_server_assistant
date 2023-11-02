@@ -8,8 +8,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/zegoim/zego_server_assistant/token/go/src/errors"
-	"github.com/zegoim/zego_server_assistant/token/go/src/util"
+	"github.com/ZEGOCLOUD/zego_server_assistant/blob/master/token/go/src/errors"
+	"github.com/ZEGOCLOUD/zego_server_assistant/blob/master/token/go/src/util"
 )
 
 // Permission bit definition
