@@ -64,6 +64,6 @@ fmt.Println(token)
 ```
 
 ## Import the codes
-1. Go to [Github - zego_server_assistant](https://github.com/ZEGOCLOUD/zego_server_assistant) to download the latest codes.
-2. Copy the [zego_server_assistant/token/go](https://github.com/ZEGOCLOUD/zego_server_assistant/tree/master/token/go) directory to your project.
-3. `import "github.com/ZEGOCLOUD/zego_server_assistant/token/go/src/token04"`
+
+1. go get github.com/ZEGOCLOUD/zego_server_assistant
+2. `import "github.com/ZEGOCLOUD/zego_server_assistant/token/go/src/token04"`
